@@ -1,0 +1,27 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "cum join me",
+      "id": 1
+    },
+    {
+      "title": "khatarnak stream",
+      "description": "go away",
+      "userId": "115580274197827455290",
+      "id": 2
+    },
+    {
+      "title": "harami stream pt 3",
+      "description": "id bhako",
+      "userId": "114286801013253805578",
+      "id": 3
+    },
+    {
+      "title": "Watch RDR2",
+      "description": "follow my lead frensssssszzzzzz",
+      "userId": "114286801013253805578",
+      "id": 4
+    }
+  ]
+}
